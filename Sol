@@ -1,0 +1,7 @@
+/artifacts/
+├── contracts/
+│   └── HydrexToken.sol          ← (updated version)
+├── scripts/
+│   └── deploy.js                ← deployment script
+├── hardhat.config.js
+└── package.json
